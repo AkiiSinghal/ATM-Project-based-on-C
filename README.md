@@ -1,11 +1,11 @@
 # ATM-Project-based-on-C
 It is a basic C Language Project an ATM with 3 Accounts:
-1.	Name: Akshat Singhal
-   Account No. : 12345
-2.	Name: Akash Gupta
-   Account No. : 12346
-3.	Name: Abhishek Pratap
-   Account No. : 12347
+
+| Name  | Account No. |
+| ------------- | ------------- |
+| Akshat Singhal  | 12345  |
+| Akash Gupta  | 12346 |
+| Abhishek Pratap | 12347 |
 
 We can simple do our basic ATM activities such as: 
 1. Balance Enquiry
